@@ -1,4 +1,4 @@
-# MARVEL Cosmic Invasion — RGDS+ Final 1.0
+# MARVEL Cosmic Invasion — RGDS+ v1.0.0
 
 Standalone Linux ARM64 adapter for Anbernic RGDS+ stock Linux firmware.
 No PortMaster is used during play.
