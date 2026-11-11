@@ -1,0 +1,130 @@
+{
+  "release": "v1.0.0 Final",
+  "files": [
+    {
+      "path": "gamedata/FNA.dll",
+      "size": 785920,
+      "sha256": "5deca55a5a9bff76a1da14206bf663a99753fc4a66fc31f3802b780070406cc4"
+    },
+    {
+      "path": "gamedata/FNA.dll.so",
+      "size": 1582112,
+      "sha256": "5faca4600a94d6f10716a377839ca89c6234b3164737dddb97c8c4dfa70f29a3"
+    },
+    {
+      "path": "gamedata/Game.exe",
+      "size": 2237440,
+      "sha256": "77458458ac5b9b3a84cb4e57eef44a6dfc128da2c4bdccde949e5c6faf72f6c7"
+    },
+    {
+      "path": "gamedata/Game.exe.so",
+      "size": 4631712,
+      "sha256": "6fea86432cfa775821923fba9ed73fd790a30b8e654246cda2681f36391ba02c"
+    },
+    {
+      "path": "gamedata/Ionic.Zlib.dll",
+      "size": 98304,
+      "sha256": "4ccc85906ed5d25e99742b2d09e8df28065d64d654c09606bfd0fd40836c3354"
+    },
+    {
+      "path": "gamedata/Ionic.Zlib.dll.so",
+      "size": 381256,
+      "sha256": "909ec5c77b74877c18ee81b4732e3f132e3627c511b1e437170fc429258d6a4d"
+    },
+    {
+      "path": "gamedata/Newtonsoft.Json.dll",
+      "size": 711952,
+      "sha256": "d134937ec381729074694490e81983b08ec7991b31550eabafb9202e5b404f89"
+    },
+    {
+      "path": "gamedata/Newtonsoft.Json.dll.so",
+      "size": 4492240,
+      "sha256": "be2178fa8b24b9cdbbe0214a374dfbf42220e798644214bb237df8d22711af40"
+    },
+    {
+      "path": "gamedata/ParisEngine.dll",
+      "size": 2941440,
+      "sha256": "628264309f628c63c17ff50a7bae6e71ae0ee63ac5c55bc11cf98c679ae37bc4"
+    },
+    {
+      "path": "gamedata/ParisEngine.dll.so",
+      "size": 6601336,
+      "sha256": "53986612472ea6e854da2870e899fa3cbf5599c683f75b8062f0d4b916cf8a9e"
+    },
+    {
+      "path": "gamedata/ParisSerializers.dll",
+      "size": 519680,
+      "sha256": "76bab2692f5ca125e24f7dc20a2edffc1edea9b479cf2aae9825e5cc98a644a4"
+    },
+    {
+      "path": "gamedata/ParisSerializers.dll.so",
+      "size": 1217768,
+      "sha256": "60f987e3396bc23368372d64f7385051c4498314155dd7854bee0547833ee8ed"
+    },
+    {
+      "path": "gamedata/RGDS.dll",
+      "size": 3584,
+      "sha256": "bc40849a7741a0a7567b1c0955896ad69797e42ba205defad4a9dc85d39a312d"
+    },
+    {
+      "path": "gamedata/RGDS.dll.so",
+      "size": 69800,
+      "sha256": "8677c63a9f70608fdc15fed3db92ce9d9d842b465c7a64cae02b9036fd03d395"
+    },
+    {
+      "path": "libs/libmci_audio.so",
+      "size": 28040,
+      "sha256": "b04f65c3f99eca6c04233a1e467eb81ebb657b16af5a6d54f923cd8f4167e29b"
+    },
+    {
+      "path": "runtime/mono/lib/mono/4.5/System.Core.dll",
+      "size": 1169408,
+      "sha256": "32d115ec56a9ef195b1d93fe9fdd37d796f8271451948c4f9db3b6e16aafcd86"
+    },
+    {
+      "path": "runtime/mono/lib/mono/4.5/System.Core.dll.so",
+      "size": 3500520,
+      "sha256": "82662e8571a06fb089a90d68f239077c834bc89bfb6bd8da810d774e37869138"
+    },
+    {
+      "path": "runtime/mono/lib/mono/4.5/mscorlib.dll",
+      "size": 4811264,
+      "sha256": "ceb40e23c27c375243851853475bda4a6c0a8719433830eb3df1f01a585adf6b"
+    },
+    {
+      "path": "runtime/mono/lib/mono/4.5/mscorlib.dll.so",
+      "size": 21230648,
+      "sha256": "090b38dab58562b2bcd7ee041e30ef336f9b0c5ae881bb1ffb46ba58d8365bf1"
+    },
+    {
+      "path": "tools/controller.txt",
+      "size": 252,
+      "sha256": "b46fa2a46d0deabddd6c09a3f05b42dfcc049456aefe0ee6f01f26c02bc695d9"
+    },
+    {
+      "path": "tools/controller_profile.py",
+      "size": 2458,
+      "sha256": "1a20126275726e00ef25ac4ca337ce4189137cacb05e31779e9725accc716d62"
+    },
+    {
+      "path": "tools/device.py",
+      "size": 4365,
+      "sha256": "d50aac2442edd2a8aaf8c49cbf2c827618987faf3b3ba478db2276e395441e27"
+    },
+    {
+      "path": "tools/launcher.py",
+      "size": 8957,
+      "sha256": "87c0606273e35eea92938f9b63d72ff34a79092ee69ef81e6481cc619369e23d"
+    },
+    {
+      "path": "tools/native_check.py",
+      "size": 2302,
+      "sha256": "13ef6df2d4a6a1c30bcbccbe366288e7c4a41c833225ca9440e1872d8e335dd4"
+    },
+    {
+      "path": "tools/session_tools.py",
+      "size": 3575,
+      "sha256": "b22e56637429aff8ed3504ec51072073ab2a13394de3e5b816658ae2af963efc"
+    }
+  ]
+}
